@@ -98,7 +98,7 @@ int GetSumOfElems(int[] array2)
 /* Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 [3 7 22 2 78] -> 76 */
 
-/* 
+
 class Program 
 {
 public static void Main(string[]args)
@@ -146,7 +146,7 @@ PrintArray(array2);
        
 Console.WriteLine($"Разница между максимальным и минимальным элементами массива= {GetDifference(array2)}");
    }
-} */
+} 
 
 
 
